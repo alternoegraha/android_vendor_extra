@@ -6,8 +6,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- URL to be checked for OTA updates -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/arian-ota/ota/main/{device}_gms.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/lineage_fog_ota/refs/heads/lineage-23/fog_gms.json</string>
 
     <!-- URL to changelog -->
-    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/arian-ota/changelog/main/<xliff:g id="device_name">%1$s</xliff:g>_gms.txt</string>
+    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/releases/refs/heads/main/changelogs/lineage_23.txt</string>
 </resources>
