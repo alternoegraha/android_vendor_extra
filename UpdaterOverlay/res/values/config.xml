@@ -6,8 +6,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- URL to be checked for OTA updates -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/lineage_fog_ota/refs/heads/lineage-23/fog.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/lineage_fog_ota/refs/heads/axion-16/fog.json</string>
 
     <!-- URL to changelog -->
-    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/releases/refs/heads/main/changelogs/lineage_23.txt</string>
+    <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/alternoegraha/releases/refs/heads/main/changelogs/axion_16.md</string>
 </resources>

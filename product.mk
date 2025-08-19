@@ -6,9 +6,4 @@
 
 EXTRA_PATH := vendor/extra
 
-# OTA
-ifeq ($(WITH_GMS),true)
-PRODUCT_PACKAGES += GmsUpdaterOverlay
-else
 PRODUCT_PACKAGES += UpdaterOverlay
-endif
